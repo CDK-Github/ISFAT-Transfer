@@ -1,2 +1,2 @@
 # ISFAT-Transfer
-Projet interne à l'ISFAC, envoi de courriel formaté avec pièces jointes préalablement chargées dans l'application.
+Application locale (lourde) pour l'envoie de courriel formaté avec pièces jointes préalablement chargées dans l'application.
